@@ -1,6 +1,4 @@
-## Short Introduction of Myself
-
-***
+# Short Introduction of Myself
 
 Hi, I'm Dendy. Data Analyst with 5+ years experience in data analysis. Skilled in the provision of strategis insight and in the interpretation of data, analysis of result and production of comprehensive report. Collaborative communicator, continually focused on building relationship to obtain a comprehensive understanding of data content and to establish detailed business requirements. Commited to communicating with stakeholder to present findings and giving recommendation based on findings.
 
