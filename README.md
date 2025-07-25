@@ -6,13 +6,13 @@ Hi, I'm Dendy. Data Analyst with 5+ years experience in data analysis. Skilled i
 
 ***
 
-<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/9091aac0-ccd6-4dc4-9abd-254a193d94a5" /> Skill : 
+<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/9091aac0-ccd6-4dc4-9abd-254a193d94a5" />  Skill : 
 - Communication skill present findings to wide variety of key stakeholders.
 - Data Visualisation :frequently using BI Tools like Metabase or Looker to create visual representation for non technical stakeholder.
 - Project Management Skill : worked with stakeholder to gather requirement and deliver findings.
 - Statistical method and data analysis skill.
 
-<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/3f685338-30df-4c83-bc96-4088da67c6e5" /> Software Proficiency : 
+<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/3f685338-30df-4c83-bc96-4088da67c6e5" />  Software Proficiency : 
 - Programming Environment: Python Programming
 - Relational Database : Mysql, PostgreSql & BigQuery
 - Visualisation : Looker & Metabase
@@ -20,7 +20,7 @@ Hi, I'm Dendy. Data Analyst with 5+ years experience in data analysis. Skilled i
 
 ***
 
-<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/7d694d6f-0cbd-4dec-9345-7f2ffa6cd07f" /> Project : 
+<img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/7d694d6f-0cbd-4dec-9345-7f2ffa6cd07f" />  Project : 
 Please direct to my [Portfolio](https://github.com/denidya/Dendy-s-Portfolio) pages to see what i have done.
 
 ***
