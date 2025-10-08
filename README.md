@@ -25,4 +25,4 @@ Please direct to my [Portfolio](https://github.com/denidya/Dendy-s-Portfolio) pa
 
 <img width="17" height="17" alt="image" src="https://github.com/user-attachments/assets/b14cf412-0a36-4e99-8623-5ebd77dafd7e" /> Connect with me : 
 - Linkedin : [Denidya Adi Nugroho](https://www.linkedin.com/in/denidya-adi-nugroho-77aa1812a/)
-- [Medium](https://medium.com/@adainugrohodenidya)
+- [Medium](https://medium.com/@adinugrohodenidya)
